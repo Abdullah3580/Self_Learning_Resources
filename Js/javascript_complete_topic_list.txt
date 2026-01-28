@@ -1,0 +1,176 @@
+
+JAVASCRIPT COMPLETE TOPIC LIST (ZERO TO ADVANCED)
+
+1. JavaScript Foundations (Core)
+- What is JavaScript, History, ECMAScript
+- How JavaScript runs (Engine, V8, Call Stack)
+- Variables: var, let, const
+- Data Types
+  - Primitive: string, number, boolean, null, undefined, symbol, bigint
+  - Non-primitive: object, array, function
+- Type conversion & coercion
+- Operators (arithmetic, logical, comparison)
+- Control flow
+  - if, else, switch
+  - for, while, do-while
+- Scope (global, block, function)
+- Hoisting
+- Strict mode ("use strict")
+
+2. Functions & Execution Model
+- Function declaration vs expression
+- Arrow functions
+- Parameters & arguments
+- Default parameters
+- Return values
+- Call stack
+- Execution context
+- Lexical environment
+- Closures
+
+3. Objects & Data Structures
+- Objects (creation, access, delete)
+- this keyword
+- Object methods
+- Prototypes
+- Prototype chain
+- Classes (ES6)
+- Constructor functions
+- Inheritance
+- Encapsulation
+- Polymorphism
+
+4. Arrays & Advanced Array Methods
+- Array basics
+- Mutating vs non-mutating methods
+- map
+- filter
+- reduce
+- forEach
+- find, findIndex
+- some, every
+- sort
+- flat, flatMap
+- Destructuring
+- Spread operator
+- Rest operator
+
+5. Asynchronous JavaScript
+- Synchronous vs Asynchronous
+- Callbacks
+- Callback hell
+- Promises
+- then, catch, finally
+- async / await
+- Event loop
+- Microtask queue
+- Macrotask queue
+- setTimeout
+- setInterval
+
+6. DOM (Browser JavaScript)
+- What is DOM
+- DOM tree
+- Selecting elements
+- Manipulating elements
+- Attributes & styles
+- Creating elements
+- Removing elements
+- Events
+- Event bubbling
+- Event capturing
+- Event delegation
+
+7. Browser APIs
+- window object
+- document object
+- location
+- history
+- localStorage
+- sessionStorage
+- Cookies
+- Fetch API
+- AJAX
+- Web Storage
+- Geolocation API
+- Clipboard API
+
+8. Network & APIs
+- HTTP basics
+- REST API
+- JSON
+- Fetch vs Axios
+- HTTP methods (GET, POST, PUT, DELETE)
+- Status codes
+- Error handling
+- CORS
+
+9. Error Handling & Debugging
+- Syntax errors
+- Runtime errors
+- try...catch
+- throw
+- Custom errors
+- Debugging tools
+- Console methods
+
+10. Modules & Tooling
+- ES Modules
+- import
+- export
+- Default export
+- Named export
+- Bundlers (concept)
+- Transpilers (Babel)
+- NPM basics
+- package.json
+
+11. Advanced JavaScript
+- Closures (deep)
+- Currying
+- Memoization
+- Debounce
+- Throttle
+- Shallow copy vs Deep copy
+- Immutability
+- Garbage collection
+- Memory leaks
+- Design patterns (basic)
+- Functional programming concepts
+
+12. JavaScript Internals
+- JavaScript Engine
+- JIT compilation
+- Event loop internals
+- Heap
+- Stack
+- How V8 works (concept)
+
+13. JavaScript Outside Browser
+- Node.js basics
+- File system module
+- CommonJS modules
+- Streams
+- EventEmitter
+- Express.js (intro)
+- Environment variables
+
+14. Testing
+- Why testing matters
+- Unit testing
+- Integration testing
+- Jest basics
+- Writing test cases
+- Mocking
+
+15. Modern JavaScript Ecosystem
+- ES6+ features
+- Linting (ESLint)
+- Formatting (Prettier)
+- TypeScript overview
+- JavaScript Frameworks
+  - React
+  - Vue
+  - Angular
+
+END OF FILE
